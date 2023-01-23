@@ -23,6 +23,8 @@ Find top 5 categories with the largest popularity
 * Create a final data set by merging three tables together
 * Figure out the Top 5 performing categories
 
+4-Visualization
+
 ## Result:
 
 * animals           74965
@@ -30,5 +32,3 @@ Find top 5 categories with the largest popularity
 * healthy eating    69339
 * technology        68738
 * food              66676
-
-4-Visualization
